@@ -62,6 +62,14 @@
                 background-color: #1e1e1e;
             }
 
+            tr:nth-child(even) td {
+                background-color: #1e1e1e;
+            }
+
+            tr:hover td {
+                background-color: #333333;
+            }
+
             a {
                 display: inline-block;
                 margin-top: 20px;
